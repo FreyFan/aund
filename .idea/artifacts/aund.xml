@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="aund">
+    <output-path>$PROJECT_DIR$/out/artifacts/aund</output-path>
+    <root id="archive" name="aund.war">
+      <element id="artifact" artifact-name="aund:Web exploded" />
+    </root>
+  </artifact>
+</component>

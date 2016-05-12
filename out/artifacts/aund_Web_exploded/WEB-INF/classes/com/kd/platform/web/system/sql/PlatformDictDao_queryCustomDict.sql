@@ -1,0 +1,1 @@
+select DISTINCT ${dicCode} as TYPECODE , ${dicText} as TYPENAME from PLATFORM.${dicTable} order by ${dicCode}

@@ -1,0 +1,1 @@
+SELECT * FROM PLATFORM.platform_minidao WHERE id=:id
